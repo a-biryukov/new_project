@@ -9,4 +9,4 @@ def capitalized_words(string) -> str:
     """
     Возвращает строку в которой каждое слово начинается с заглавной буквы
     """
-    return string.title()()
+    return string.title()
