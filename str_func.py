@@ -1,4 +1,4 @@
-def string_in_uppercase(string) -> str:
+def uppercase_string(string) -> str:
     """
     Возвращает сроку в верхнем регистре
     """
